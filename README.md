@@ -37,13 +37,13 @@ This project is a demonstration of implementing push notifications with a user-f
 ```
 pushNotification/
 │
-├── app/                # Next.js pages directory
-│   ├── page.js          # Main page containing UI components
+├── app/           
+│   ├── page.js         
 │   └── ...
 │
-├── public/               # Static assets directory
+├── public/             
 │   └── ...
 │
-├── package.json          # Project dependencies and scripts
-└── README.md             # Project documentation (you are here)
+├── package.json         
+└── README.md             
 ```

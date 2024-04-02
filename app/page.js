@@ -12,7 +12,7 @@ export default function Home() {
             // Attempt to create a notification
             new Notification('Hello Developers!!', {
               body: 'This is your notification message!!',
-              icon: '/images/icon16.png',
+              icon: '/images/bell.png',
             });
           } catch (error) {
             console.error('Error creating notification:', error);

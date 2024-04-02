@@ -4,7 +4,7 @@
 This project is a demonstration of implementing push notifications with a user-friendly UI design using Next.js. When a user clicks on the "Send Notification" button, a notification popup will appear, showcasing the functionality of push notifications.
 
 ## Live Url
-[Vercel_Live_Url]([https://push-notification-sandy.vercel.app/](https://push-notification-sandy.vercel.app/))
+[Vercel_Live_Url](https://push-notification-sandy.vercel.app/)
 
 
 ## Technologies Used
